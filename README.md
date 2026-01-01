@@ -53,5 +53,3 @@ Data Science Student
 
 ---
 
-Tinggal bilang aja!
-
